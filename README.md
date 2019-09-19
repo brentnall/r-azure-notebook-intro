@@ -2,7 +2,7 @@
 
 This is a short introduction to using R notebooks. It uses [Jupyter Notebooks](#jupyter) and was originally developed to be run on the cloud via [Microsoft Azure](https://notebooks.azure.com). 
 
-Notebooks such as Jupyter are a wat ti combine code, images, text, graphs, all in one format. They are an excellent way to ensure that analysis and research is reproducible.
+Notebooks such as Jupyter are a way to combine code, images, text, graphs, all in one format. They help ensure that analysis and research is reproducible.
 
 # Summary of contents 
 
