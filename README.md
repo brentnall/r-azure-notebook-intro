@@ -6,7 +6,9 @@ Notebooks such as Jupyter are a way to combine code, images, text, graphs, all i
 
 # Summary of contents 
 
-The main file is the tutorial notebook: 'Introduction to R.ipynb'.
+There are two notebooks to work through.
+- 'Introduction to R.ipynb'. This introduces the statistical software R, and use in a Jupyter notebook.
+- 'DataAnalysis.ipynb'. This introduces some basic statistical analysis in R.
 
 # Some other resources
 
