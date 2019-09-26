@@ -1,6 +1,6 @@
 # Introduction to R Notebooks
 
-This is a set of short tutorial files designed to introduce you to using R notebooks. It is based on running [Jupyter Notebooks](#jupyter) using [Microsoft Azure](https://notebooks.azure.com). 
+This is a set of short tutorial files designed to introduce you to using R notebooks. It is written to help you run [Jupyter Notebooks](#jupyter), and focuses on using [Microsoft Azure](https://notebooks.azure.com) but applies more generally. 
 
 Notebooks such as Jupyter are a way to combine code, images, text, graphs, all in one format. They help ensure that analysis and research is reproducible.
 
@@ -11,6 +11,10 @@ There are three notebooks to work through. The following order is recommended.
 1. 'Introduction to R.ipynb'. This introduces the statistical software R, and use in a Jupyter notebook.
 1. 'DataAnalysis.ipynb'. This introduces some basic statistical analysis in R.
 1. 'CreateNotebook.ipynb'. This shows you how to create your own project and notebook.
+
+# Explore the notebooks on binder
+
+You can run an interactive session to explore the notebooks on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brentnall/r-azure-notebook-intro/master)
 
 # Some other resources
 
